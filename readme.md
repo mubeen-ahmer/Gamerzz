@@ -42,8 +42,8 @@ This was my first-semester web development project at FAST NUCES. The goal was t
 ## Setup
 
 ```bash
-git clone https://github.com/mubeen-ahmer/Gamerzz
-cd gamerzz
+git clone https://github.com/mubeen-ahmer/Gamerzz.git
+cd Gamerzz
 ```
 
 No dependencies, no build step — it's static HTML/CSS/JS.
@@ -61,7 +61,7 @@ Navigate between Home, Shop, Contact, and Login using the header — on screens 
 ## Project Structure
 
 ```
-gamerzz/
+Gamerzz/
 ├── assets/                # Screenshots and demo media for README
 ├── css/
 │   ├── style.css
